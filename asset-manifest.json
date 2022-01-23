@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ECart-App/static/css/main.56e6221f.css",
+    "main.js": "/ECart-App/static/js/main.2e5d5128.js",
+    "static/js/787.c7b8fed1.chunk.js": "/ECart-App/static/js/787.c7b8fed1.chunk.js",
+    "index.html": "/ECart-App/index.html",
+    "main.56e6221f.css.map": "/ECart-App/static/css/main.56e6221f.css.map",
+    "main.2e5d5128.js.map": "/ECart-App/static/js/main.2e5d5128.js.map",
+    "787.c7b8fed1.chunk.js.map": "/ECart-App/static/js/787.c7b8fed1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56e6221f.css",
+    "static/js/main.2e5d5128.js"
+  ]
+}
